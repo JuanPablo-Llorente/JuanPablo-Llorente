@@ -11,10 +11,6 @@ I'm passionate about the technological and computer world and I always find myse
 </p>
 <br>
 
-<a href="https://juanpll-cv.vercel.app" target="_blank" rel="noreferrer">
-    <h2>📄 CV - Resume</h2>
-</a>
+<h2>[📄 CV - Resume](https://juanpll-cv.vercel.app)</h2>
 
-<a href="https://juanpll.vercel.app" target="_blank" rel="noreferrer">
-    <h2>💼 Portfolio</h2>
-</a>
+<h2>[💼 Portfolio](https://juanpll.vercel.app)</h2>
