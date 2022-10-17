@@ -11,6 +11,6 @@ I'm passionate about the technological and computer world and I always find myse
 </p>
 <br>
 
-<h2>[📄 CV - Resume](https://juanpll-cv.vercel.app)</h2>
+## [📄 CV - Resume](https://juanpll-cv.vercel.app)
 
-<h2>[💼 Portfolio](https://juanpll.vercel.app)</h2>
+## [💼 Portfolio](https://juanpll.vercel.app)
